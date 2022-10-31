@@ -21,7 +21,7 @@ def time():
 # will look more attractive
 lbl = Label(root, font = ('calibri', 40, 'bold'),
 			background = 'purple',
-			foreground = 'red')
+			foreground = 'blue')
 
 # Placing clock at the centre
 # of the tkinter window
